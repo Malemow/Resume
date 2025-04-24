@@ -1,0 +1,8 @@
+{
+    "name": "nick-resume",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Nick Lin",
+    "license": "MIT",
+    "packageManager": "pnpm@10.6.5"
+}
